@@ -14,7 +14,7 @@ struct Books
 int main( )
 {
    struct Books Book1;        // Declare Book1 of type Book
-   structt Books Book2;        // Declare Book2 of type Book
+   struct Books Book2;        // Declare Book2 of type Book
 
    // book 1 specification
    strcpy( Book1.title, "Learn C++ Programming");
