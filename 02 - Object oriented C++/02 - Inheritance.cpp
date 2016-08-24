@@ -19,7 +19,7 @@ class Shape
       int height;
 };
 
-// Derived class
+// Derived 
 class Rectangle: public Shape
 {
    public:
